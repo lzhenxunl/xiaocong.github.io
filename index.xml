@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>小葱的小站</title>
-        <link>https://lzhenxunl.github.io/xiaocong.github.io/</link>
+        <link>https://lzhenxunl.github.io/xiaocongwd.github.io/</link>
         <description>Recent content on 小葱的小站</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 30 Jul 2025 16:09:27 +0800</lastBuildDate><atom:link href="https://lzhenxunl.github.io/xiaocong.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Jul 2025 16:09:27 +0800</lastBuildDate><atom:link href="https://lzhenxunl.github.io/xiaocongwd.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于本站</title>
-        <link>https://lzhenxunl.github.io/xiaocong.github.io/p/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</link>
+        <link>https://lzhenxunl.github.io/xiaocongwd.github.io/p/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</link>
         <pubDate>Wed, 30 Jul 2025 16:09:27 +0800</pubDate>
         
-        <guid>https://lzhenxunl.github.io/xiaocong.github.io/p/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</guid>
+        <guid>https://lzhenxunl.github.io/xiaocongwd.github.io/p/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</guid>
         <description>&lt;p&gt;本站是站长闲的没事熬夜花了3个小时搭建的，主要目的是教你们建站，还有分享一些教程&lt;/p&gt;
 &lt;p&gt;联系方式：&lt;/p&gt;
 &lt;p&gt;github：&lt;a class=&#34;link&#34; href=&#34;https://github.com/lzhenxunl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -23,35 +23,35 @@
         </item>
         <item>
         <title>档案</title>
-        <link>https://lzhenxunl.github.io/xiaocong.github.io/archives/</link>
+        <link>https://lzhenxunl.github.io/xiaocongwd.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://lzhenxunl.github.io/xiaocong.github.io/archives/</guid>
+        <guid>https://lzhenxunl.github.io/xiaocongwd.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://lzhenxunl.github.io/xiaocong.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://lzhenxunl.github.io/xiaocongwd.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://lzhenxunl.github.io/xiaocong.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://lzhenxunl.github.io/xiaocongwd.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://lzhenxunl.github.io/xiaocong.github.io/search/</link>
+        <link>https://lzhenxunl.github.io/xiaocongwd.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://lzhenxunl.github.io/xiaocong.github.io/search/</guid>
+        <guid>https://lzhenxunl.github.io/xiaocongwd.github.io/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友链</title>
-        <link>https://lzhenxunl.github.io/xiaocong.github.io/%E5%8F%8B%E9%93%BE/</link>
+        <link>https://lzhenxunl.github.io/xiaocongwd.github.io/%E5%8F%8B%E9%93%BE/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://lzhenxunl.github.io/xiaocong.github.io/%E5%8F%8B%E9%93%BE/</guid>
+        <guid>https://lzhenxunl.github.io/xiaocongwd.github.io/%E5%8F%8B%E9%93%BE/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
